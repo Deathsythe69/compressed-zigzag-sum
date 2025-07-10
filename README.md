@@ -110,8 +110,6 @@ compressed-zigzag-sum/
 │   ├── code.png
 │   ├── output.png
 │   └── traversal_example.png (optional)
-├── video/                            # (Optional) screen recording
-│   └── zigzag_demo.mp4
 └── test_inputs/                      # Optional input test files
     ├── input_3x3.txt
     └── input_5x5.txt
