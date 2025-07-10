@@ -107,12 +107,8 @@ compressed-zigzag-sum/
 ├── README.md                         # This file
 ├── Debasis_Qualification_Task.docx  # Word document with explanation, code, and screenshots
 ├── screenshots/                      # Code and output screenshots
-│   ├── code.png
-│   ├── output.png
-│   └── traversal_example.png (optional)
 └── test_inputs/                      # Optional input test files
     ├── input_3x3.txt
-    └── input_5x5.txt
 ```
 
 ---
